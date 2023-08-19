@@ -1,0 +1,10 @@
+.bg {
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin-top: 30px;
+}
+
+.content {
+    margin-top: 20px;
+}
