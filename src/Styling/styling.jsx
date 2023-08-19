@@ -28,7 +28,7 @@ export default class StylingComponent extends React.Component {
                 <div>
                         <div class="bg-primary p-5 rounded-lg m-6 bg">
                             <h1 class="display-2 text-white">Portofolio</h1>
-                            <p class="lead text-white">An 8th-semester student majoring in electrical engineering from Del Institute of Technology. <br /> 
+                            <p class="lead text-white"> Hi, My name Jeffrey Pasaribu I'm An 8th-semester student majoring in electrical engineering from Del Institute of Technology. <br /> 
                                 Trusted as a labassistant for 6 months and has internship experience at PT. Syntek Otomasi Indonesia. has an interest <br /> 
                                 inprogramming, especially in the field of web development and machine learning.
                             </p>
