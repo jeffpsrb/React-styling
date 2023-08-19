@@ -19,7 +19,7 @@ export default class StylingComponent extends React.Component {
                         <Navbar.Brand href="#home">PORTOFOLIO</Navbar.Brand>
                         <Nav className="justify-content-end">
                             <Nav.Link href="#home">Home</Nav.Link>
-                            <Nav.Link href="#features">Features</Nav.Link>
+                            <Nav.Link href="#features">About</Nav.Link>
                             <Nav.Link href="#pricing">Contact</Nav.Link>
                         </Nav>
                         </Container>
